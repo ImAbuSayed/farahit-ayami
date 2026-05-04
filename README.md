@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit 82ff4898475174b3bf9fdd674f6ab482f679ccd2
+> يا نور عيني في سكون الليل
+> روحي تنادي وعشقي لك دليل
+> قلبي يذوب في غرامك الطويل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
