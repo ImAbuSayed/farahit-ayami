@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/farahit-ayami/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Farahit Ayami](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Farahit Ayami](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
